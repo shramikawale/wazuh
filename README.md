@@ -1,2 +1,1 @@
-# wazuh
-ls
+#  elasticsearch, kibana, nginx, wazuh 
