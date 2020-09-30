@@ -59,13 +59,6 @@ In addition, a docker-compose file is provided to launch the containers mentione
 * `master` branch contains the latest code, be aware of possible bugs on this branch.
 * `Wazuh.Version_ElasticStack.Version` (for example 3.10.2_7.5.0) branch. This branch contains the current release referenced in Docker Hub. The container images are installed under the current version of this branch.
 
-## Credits and Thank you
-
-These Docker containers are based on:
-
-*  "deviantony" dockerfiles which can be found at [https://github.com/deviantony/docker-elk](https://github.com/deviantony/docker-elk)
-*  "xetus-oss" dockerfiles, which can be found at [https://github.com/xetus-oss/docker-ossec-server](https://github.com/xetus-oss/docker-ossec-server)
-
 We thank you them and everyone else who has contributed to this project.
 
 ## License and copyright
