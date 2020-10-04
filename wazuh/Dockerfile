@@ -1,4 +1,3 @@
-# Wazuh Docker Copyright (C) 2020 Wazuh Inc. (License GPLv2)
 FROM phusion/baseimage:latest
 
 ARG FILEBEAT_VERSION=7.6.2
