@@ -1,4 +1,3 @@
-# Wazuh App Copyright (C) 2020 Wazuh Inc. (License GPLv2)
 version: '2'
 
 services:
